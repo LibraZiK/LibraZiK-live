@@ -1,0 +1,13 @@
+#!/bin/sh
+
+set -e
+
+lb config noauto \
+	--architectures i386 \
+	--archive-areas "main" \
+	--iso-application "LibraZiK studio audio - #1 premier pas" \
+	--iso-preparer "LibraZiK studio audio - trebmuh; http://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
+	--iso-publisher "LibraZiK studio audio; http://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
+	--iso-volume "LibraZiK studio #1 premier pas" \
+	"${@}"
+
