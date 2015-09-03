@@ -9,5 +9,6 @@ lb config noauto \
 	--iso-preparer "LibraZiK studio audio - trebmuh; http://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
 	--iso-publisher "LibraZiK studio audio; http://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
 	--iso-volume "LibraZiK studio #1 premier pas" \
+	--bootappend-live "boot=live components locales=fr_FR.UTF-8 keyboard-layouts=fr" \
 	"${@}"
 
