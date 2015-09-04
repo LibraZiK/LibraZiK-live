@@ -12,3 +12,5 @@ qjackctl librazik-optimisations-qjackctl
 a2jmidid
 lilv-utils
 
+librazik-optimisations-pulse
+
