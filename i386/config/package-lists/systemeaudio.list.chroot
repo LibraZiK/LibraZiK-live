@@ -13,4 +13,7 @@ a2jmidid
 lilv-utils
 
 librazik-optimisations-pulse
+librazik-optimisations-governor
+librazik-optimisations-pluginspaths
+librazik-optimisations-swap
 
