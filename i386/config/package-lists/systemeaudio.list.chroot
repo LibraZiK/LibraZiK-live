@@ -1,0 +1,14 @@
+alsa-oss
+alsa-tools-gui
+alsa-tools
+alsa-oss
+alsa-base
+libasound2-plugins
+
+ffado-mixer-qt4
+
+jackd2
+qjackctl librazik-optimisations-qjackctl
+a2jmidid
+lilv-utils
+
