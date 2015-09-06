@@ -1,4 +1,7 @@
 task-mate-desktop
+mate-system-tools
+caja-open-terminal
+
 iceweasel
 xchat
 apt-xapian-index
