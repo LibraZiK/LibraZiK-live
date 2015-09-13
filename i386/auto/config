@@ -11,5 +11,6 @@ lb config noauto \
 	--iso-volume "LibraZiK studio #1 premier pas" \
 	--bootappend-live "boot=live components locales=fr_FR.UTF-8 keyboard-layouts=fr quiet" \
 	--debian-installer live \
+	--memtest memtest86+ \
 	"${@}"
 
