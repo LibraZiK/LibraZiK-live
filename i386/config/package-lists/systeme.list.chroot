@@ -1,3 +1,11 @@
-gparted
+#outils système en ligne de commande
 pciutils
+htop
+lshw
+lsof
+lynx
+mtools
+
+#outils système en graphique
+gparted
 
