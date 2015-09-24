@@ -5,6 +5,7 @@ lshw
 lsof
 lynx
 mtools
+pv
 
 #outils système en graphique
 gparted
