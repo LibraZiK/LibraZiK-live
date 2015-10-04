@@ -1,6 +1,6 @@
 ardour
 
-hydrogen hydrogen-drumkits hydrogen-drumkits-extra-librazik
+hydrogen hydrogen-drumkits hydrogen-drumkits-extra-librazik-all
 
 ir.lv2 ir-data jconvolver-config-files
 x42-plugins
