@@ -7,6 +7,9 @@ lynx
 mtools
 pv
 
+#pilotes libres
+firmware-linux-free
+
 #outils système en graphique
 gparted
 
