@@ -10,3 +10,8 @@ pv
 #outils système en graphique
 gparted
 
+# dépôt LibraZiK utilisateur
+librazik-apt
+# clef du dépôt LibraZiK
+librazik-keyring
+

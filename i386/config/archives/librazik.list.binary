@@ -1,6 +1,0 @@
-# Fichier pour l'inclusion du dépôt LZK-users lors de l'utilisation de l'image live
-
-# LibraZiK-users
-deb http://download.tuxfamily.org/librazik/premierpas/ LZK-PP-users main  #LibraZiK studio audio - #1 "premier pas"
-#deb-src http://download.tuxfamily.org/librazik/premierpas/ LZK-PP-users main  #LibraZiK studio audio - #1 "premier pas"
-
