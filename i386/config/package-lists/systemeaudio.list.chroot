@@ -8,6 +8,7 @@ libasound2-plugins
 jackd2
 lilv-utils
 
+librazik-optimisations-modules
 librazik-optimisations-qjackctl
 librazik-optimisations-pulse
 librazik-optimisations-governor
@@ -18,4 +19,3 @@ nano-basket
 gdigi
 mudita24
 mustang-plug
-
