@@ -18,3 +18,6 @@ librazik-apt
 # clef du dépôt LibraZiK
 librazik-keyring
 
+# démarreur linux
+grub-pc
+
