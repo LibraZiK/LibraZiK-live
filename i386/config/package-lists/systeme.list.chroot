@@ -6,6 +6,7 @@ lsof
 lynx
 mtools
 pv
+bash-completion
 
 #pilotes libres
 firmware-linux-free
