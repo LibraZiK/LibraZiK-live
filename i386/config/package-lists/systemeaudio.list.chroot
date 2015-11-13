@@ -2,7 +2,6 @@ librazik-base-audio
 
 alsa-oss
 alsa-tools
-ld10k1 liblo10k1-0
 alsa-base
 libasound2-plugins
 
@@ -15,10 +14,3 @@ librazik-optimisations-pulse
 librazik-optimisations-governor
 librazik-optimisations-pluginspaths
 librazik-optimisations-swap
-
-awesfx
-gdigi
-mudita24
-mustang-plug
-nano-basket
-qxgedit
