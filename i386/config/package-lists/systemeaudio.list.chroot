@@ -2,6 +2,7 @@ librazik-base-audio
 
 alsa-oss
 alsa-tools
+ld10k1 liblo10k1-0
 alsa-base
 libasound2-plugins
 
