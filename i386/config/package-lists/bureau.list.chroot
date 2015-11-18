@@ -1,6 +1,7 @@
 task-mate-desktop
 mate-system-tools
 caja-open-terminal
+mate-sensors-applet
 
 iceweasel
 xchat
