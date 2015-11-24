@@ -1,18 +1,1 @@
-ardour
-
-hydrogen hydrogen-drumkits hydrogen-drumkits-extra-librazik-all hydrogen-patterns-extra-librazik
-
-ir.lv2 ir-data jconvolver-config-files
-x42-plugins
-calf-plugins
-zam-plugins
-
-jalv
-
-qtractor
-
-zynaddsubfx
-
-simplescreenrecorder
-
-smplayer smtube
+librazik-logiciels-audio
