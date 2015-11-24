@@ -1,25 +1,3 @@
-#outils système en ligne de commande
-pciutils
-htop
-lshw lshw-gtk
-lsof
-lynx
-mtools
-pv
-bash-completion
-most
-
-#pilotes libres
-firmware-linux-free
-
-#outils système en graphique
-gparted
-
-# dépôt LibraZiK utilisateur
 librazik-apt
-# clef du dépôt LibraZiK
 librazik-keyring
-
-# démarreur linux
-grub-pc
-
+librazik-base-systeme
