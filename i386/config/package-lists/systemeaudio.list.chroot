@@ -1,20 +1,8 @@
 librazik-base-audio
 
-alsa-oss
-alsa-tools
-alsa-base
-libasound2-plugins
-
-jackd2
-lilv-utils
-
 librazik-optimisations-modules
 librazik-optimisations-qjackctl
 librazik-optimisations-pulse
 librazik-optimisations-governor
 librazik-optimisations-pluginspaths
 librazik-optimisations-swap
-
-fluid-soundfont-gm
-fluid-soundfont-gs
-musescore-soundfont-gm
