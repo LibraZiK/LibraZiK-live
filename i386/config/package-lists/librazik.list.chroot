@@ -1,4 +1,10 @@
+librazik-apt
+librazik-keyring
+
+librazik-base-systeme
 librazik-base-audio
+librazik-base-bureau
+librazik-logiciels-audio
 
 librazik-optimisations-modules
 librazik-optimisations-qjackctl
@@ -6,3 +12,4 @@ librazik-optimisations-pulse
 librazik-optimisations-governor
 librazik-optimisations-pluginspaths
 librazik-optimisations-swap
+
