@@ -12,6 +12,10 @@ lb config noauto \
 	--bootappend-live "boot=live components locales=fr_FR.UTF-8 keyboard-layouts=fr quiet silent hostname=LibraZiK-studio-audio" \
 	--debian-installer live \
 	--memtest memtest86+ \
+	--mirror-binary "http://httpredir.debian.org/debian/" \
+	--mirror-binary-security "http://security.debian.org/" \
+	--mirror-chroot-security "http://security.debian.org/" \
 	--backports "true" \
+	--updates "true" \
 	"${@}"
 
