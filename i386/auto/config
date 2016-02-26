@@ -4,6 +4,7 @@ set -e
 
 lb config noauto \
 	--architectures i386 \
+	--distribution "jessie" \
 	--archive-areas "main" \
 	--iso-application "LibraZiK studio audio - #1 premier pas" \
 	--iso-preparer "LibraZiK studio audio - trebmuh; http://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
@@ -12,10 +13,13 @@ lb config noauto \
 	--bootappend-live "boot=live components locales=fr_FR.UTF-8 keyboard-layouts=fr quiet silent hostname=LibraZiK-studio-audio" \
 	--debian-installer live \
 	--memtest memtest86+ \
+	--mirror-bootstrap "http://httpredir.debian.org/debian/" \
 	--mirror-binary "http://httpredir.debian.org/debian/" \
+	--mirror-chroot "http://httpredir.debian.org/debian/" \
 	--mirror-binary-security "http://security.debian.org/" \
 	--mirror-chroot-security "http://security.debian.org/" \
 	--backports "true" \
 	--updates "true" \
+	--security "true" \
 	"${@}"
 
