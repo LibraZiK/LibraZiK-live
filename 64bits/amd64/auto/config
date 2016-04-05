@@ -3,9 +3,9 @@
 set -e
 
 lb config noauto \
-	--architectures i386 \
+	--architectures amd64 \
 	--distribution "jessie" \
-	--archive-areas "main" \
+	--archive-areas "main contrib non-free" \
 	--iso-application "LibraZiK studio audio - #1 premier pas" \
 	--iso-preparer "LibraZiK studio audio - trebmuh; http://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
 	--iso-publisher "LibraZiK studio audio; http://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
