@@ -18,15 +18,9 @@ librazik-optimisations-swap
 
 
 
-# noyaux LibraZiK
+# noyau LibraZiK
 
-linux-image-4.4.0-1-lzk-686
-linux-image-4.4.0-1-lzk-686-pae
-linux-image-4.4.0-1-lzk-bl-686
-linux-image-4.4.0-1-lzk-bl-686-pae
-linux-image-4.4.0-1-lzk-rt-686
-linux-image-4.4.0-1-lzk-rt-686-pae
-
+linux-image-4.6.0-1-lzk-bl-686-pae
 
 
 # paquets "contrib"

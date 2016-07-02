@@ -18,15 +18,9 @@ librazik-optimisations-swap
 
 
 
-# noyaux LibraZiK
+# noyau LibraZiK
 
-linux-image-4.4.0-1-lzk-amd64
-linux-image-4.4.0-1-lzk-bl-amd64
-linux-image-4.4.0-1-lzk-rt-amd64
-
-
-
-
+linux-image-4.6.0-1-lzk-bl-amd64
 
 
 # paquets "contrib"
