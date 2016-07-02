@@ -1,0 +1,11 @@
+Package: *
+Pin: release n=jessie
+Pin-Priority: 500
+
+Package: *
+Pin: release n=jessie-backports
+Pin-Priority: 500
+
+Package: musescore-soundfont-gm
+Pin: version 1.3*
+Pin-Priority: 1001
