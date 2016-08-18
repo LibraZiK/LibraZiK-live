@@ -1,5 +1,5 @@
 # LibraZiK-live
-LibraZiK audio studio - Live USB/DVD
+Studio audio LibraZiK - Live USB/DVD
 
 [fr] 
 Ceci est le dépôt pour le live LibraZiK.
