@@ -10,4 +10,3 @@ This is the LibraZiK live repository.
 More information about LibraZiK can be found here :
 
 http://librazik.tuxfamily.org
-
