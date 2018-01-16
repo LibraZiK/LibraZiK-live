@@ -17,7 +17,7 @@ librazik-base-all
 
 # noyau LibraZiK
 
-linux-image-4.9.0-4-lzk-bl-amd64
+linux-image-4.9.0-5-lzk-bl-amd64
 
 
 # paquets "contrib"
