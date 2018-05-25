@@ -1,7 +1,7 @@
 # LibraZiK2-live
 Studio audio LibraZiK-2 - Live USB/DVD
 
-**French**
+**Français**
 
 Ceci est le dépôt pour le live LibraZiK-2. L'outil utilisé pour la construction des images ISO est [live-build](https://packages.debian.org/live-build).
 Davantage d'informations à propos de LibraZiK-2 peuvent être trouvées ici : http://librazik.tuxfamily.org
