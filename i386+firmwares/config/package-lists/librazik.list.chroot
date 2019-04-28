@@ -17,11 +17,10 @@ librazik-base-all
 
 # noyau LibraZiK
 
-linux-image-4.9.0-8-lzk-bl-686-pae
+linux-image-4.9.0-9-lzk-bl-686-pae
 
 
 # paquets "contrib"
 
 alsa-firmware-loaders
 iucode-tool
-
