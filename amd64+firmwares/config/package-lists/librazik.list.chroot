@@ -24,10 +24,3 @@ linux-image-4.9.0-9-lzk-bl-amd64
 
 alsa-firmware-loaders
 iucode-tool
-
-# paquets logiciels oubliés dans librazik-base-logicielsaudiomidi
-
-bambootracker
-bamp
-bslizr
-shiro-plugins
