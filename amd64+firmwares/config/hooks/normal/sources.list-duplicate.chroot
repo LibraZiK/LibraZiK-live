@@ -1,0 +1,16 @@
+#!/bin/sh
+
+set -e
+
+echo "----------------------------------------"
+echo " LibraZiK hook - duplicate source lists "
+echo "----------------------------------------"
+
+echo "----------------------------------------"
+echo "cat /etc/apt/sources.list.d/librazik.list"
+cat /etc/apt/sources.list.d/librazik.list
+
+echo "----------------------------------------"
+echo "rm /etc/apt/sources.list.d/librazik.list"
+rm /etc/apt/sources.list.d/librazik.list
+

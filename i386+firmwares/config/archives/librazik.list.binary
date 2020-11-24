@@ -1,5 +1,0 @@
-# Fichier pour l'inclusion du dépôt LZK2-users lors de la construction de l'image live
-
-# LibraZiK2-users
-deb http://download.tuxfamily.org/librazik/decepas/ LZK-DCP-users main contrib #LibraZiK-2 studio audio - #2 "de ce pas"
-deb-src http://download.tuxfamily.org/librazik/decepas/ LZK-DCP-users main contrib #LibraZiK-2 studio audio - #2 "de ce pas"

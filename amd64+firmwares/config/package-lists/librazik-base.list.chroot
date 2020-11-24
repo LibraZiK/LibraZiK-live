@@ -1,0 +1,40 @@
+# base LibraZiK
+
+librazik-apt
+librazik-keyring
+librazik-mate-all
+librazik-menu
+
+# pas librazik-base-all mais :
+librazik-base-banquesdeson
+librazik-base-bureau
+#librazik-base-logicielsaudio
+librazik-base-systeme
+librazik-base-systemeaudiomidi
+librazik-donate-tip
+
+# pas librazik-optimisations-all mais :
+librazik-optimisations-governor
+librazik-optimisations-modules
+librazik-optimisations-pluginspaths
+librazik-optimisations-pulse
+# librazik-optimisations-rtirq
+librazik-optimisations-screensaver
+librazik-optimisations-swap
+# librazik-optimisations-timers
+
+# pas librazik-themes-all mais :
+librazik-theme-qt5 
+
+
+
+# noyau LibraZiK
+
+linux-image-4.19.0-12-lzk-bl-amd64-unsigned
+
+
+
+# paquets "contrib"
+
+alsa-firmware-loaders
+iucode-tool

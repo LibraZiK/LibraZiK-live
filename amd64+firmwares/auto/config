@@ -1,25 +1,45 @@
 #!/bin/sh
 
+# Fichier de configuration pour la construction d'un live LibraZiK-3 64 bits
+# Ce fichier a été écrit par Olivier Humbert pour le projet studio audio LibraZiK 
+# Licence : GNU-GPL-3
+
+# Configuration file for building a 64-bit LibraZiK-3 live
+# This file has been written by Olivier Humbert for the LibraZiK audio studio project
+# License: GNU-GPL-3
+
+# Copyright : Olivier Humbert <trebmuh@tuxfamily.org> 2015-2020
+# https://librazik.tuxfamily.org
+
 set -e
 
 lb config noauto \
-	--architectures amd64 \
-	--distribution "stretch" \
+	--apt-recommends true \
+	--apt-secure true \
+	--apt-source-archives true \
 	--archive-areas "main contrib" \
-	--iso-application "LibraZiK-2 studio audio - #2 de ce pas" \
-	--iso-preparer "LibraZiK studio audio - trebmuh; http://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
-	--iso-publisher "LibraZiK studio audio; http://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
-	--iso-volume "LibraZiK studio #2 de ce pas" \
-	--bootappend-live "boot=live components quiet silent hostname=LibraZiK2-studio-audio locales=fr_FR.UTF-8 keyboard-layouts=fr" \
+	--backports true \
+	--binary-images iso-hybrid \
+	--bootappend-live "boot=live components quiet silent hostname=LibraZiK3-studio-audio locales=fr_FR.UTF-8 keyboard-layouts=fr" \
+	--bootloaders syslinux \
+	--clean \
+	--color \
 	--debian-installer live \
+	--debian-installer-gui true \
+	--distribution buster \
+	--iso-application "LibraZiK-3 studio audio - #3 pas à pas" \
+	--iso-preparer "LibraZiK studio audio - trebmuh; https://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
+	--iso-publisher "LibraZiK studio audio; https://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
+	--iso-volume "LibraZiK studio #3 pas à pas" \
 	--memtest memtest86+ \
-	--mirror-bootstrap "http://deb.debian.org/debian/" \
 	--mirror-binary "http://deb.debian.org/debian/" \
-	--mirror-chroot "http://deb.debian.org/debian/" \
 	--mirror-binary-security "http://deb.debian.org/debian-security/" \
+	--mirror-bootstrap "http://deb.debian.org/debian/" \
+	--mirror-chroot "http://deb.debian.org/debian/" \
 	--mirror-chroot-security "http://deb.debian.org/debian-security/" \
-	--backports "true" \
-	--updates "true" \
-	--security "true" \
+	--security true \
+	--source false \
+	--uefi-secure-boot auto \
+	--updates true \
 	"${@}"
 

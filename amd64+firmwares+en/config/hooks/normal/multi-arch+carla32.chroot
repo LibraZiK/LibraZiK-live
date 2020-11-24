@@ -1,0 +1,24 @@
+#!/bin/sh
+
+set -e
+
+echo "----------------------------"
+echo " LibraZiK hook - multi-arch "
+echo "----------------------------"
+
+# auto-configuration du multi-arch 32 bits (i386) si système 64 bits (amd64) détecté
+if [ $(uname -m) = "x86_64" ]
+then
+	echo "64bit (amd64) system detected, installing 32bit (i386) multiarch"
+	dpkg --add-architecture i386
+	echo "updating apt database"
+	apt update
+# installation des ponts 32 bits dans Carla
+	echo "installing carla 32 bit support"
+	apt-get install -y carla-bridge-linux32:i386 carla-bridge-win32 wine32:i386
+# installation du serveur 32 bits dans LMMS
+	echo "installing lmms 32 bit VST support"
+	apt-get install -y lmms-vst-server:i386
+else
+	echo "not a 64bit (amd64) system, so not installing 32bit (i386) multiarch"
+fi

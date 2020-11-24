@@ -1,12 +1,12 @@
 Package: *
-Pin: release n=stretch
+Pin: release n=buster
 Pin-Priority: 500
 
 Package: *
-Pin: release n=stretch-backports
+Pin: release n=buster-backports
 Pin-Priority: 500
 
 Package: linux-image-*
-Pin: release n=stretch-backports
+Pin: release n=buster-backports
 Pin-Priority: -10
 
