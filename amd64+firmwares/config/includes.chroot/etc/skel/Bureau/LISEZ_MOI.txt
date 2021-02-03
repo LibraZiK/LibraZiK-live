@@ -5,7 +5,18 @@ Quelques infos pour vous dans ce fichier.
 
 
 
-A. Documentations
+A. Menu (trop) long
+-------------------
+
+Il se peut que certains menus très long ne permettent pas de voir directement tous les éléments du menu.
+Par exemple, le menu "Applications -> Son et vidéo -> Instruments virtuels" ne permet pas de voir tous les instruments virtuels disponibles.
+Pour pouvoir les afficher, lorsque votre pointeur de souris survol les éléments du menu, pressez (et relâcher) une fois la touche Ctrl, la touche Alt ou une des flèches. Ensuite, vous pourrez faire défiler les éléments du menu en vous plaçant en bas du menu.
+
+
+
+
+
+B. Documentations
 -----------------
 
 Des documentations pour la prise en main de LibraZiK-3 sont disponibles dans le dossier "documentations" sur le bureau.
@@ -18,7 +29,7 @@ Les documentations présentes dans le dossier "documentations" sur le bureau du 
 
 
 
-B. Installer LibraZiK-3 sur votre disque dur
+C. Installer LibraZiK-3 sur votre disque dur
 --------------------------------------------
 
 Vous pouvez essayer : "menu Applications -> Installer le studio audio LibraZiK-3".
