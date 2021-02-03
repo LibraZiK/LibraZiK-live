@@ -16,7 +16,7 @@ To be able to display them, when your mouse pointer hovers over the menu items, 
 
 
 
-b. Documentations
+B. Documentations
 -----------------
 
 Some info in English are available online here:
