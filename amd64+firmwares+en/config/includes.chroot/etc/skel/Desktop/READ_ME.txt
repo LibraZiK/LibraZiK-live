@@ -5,7 +5,18 @@ Some info for you in this file.
 
 
 
-A. Documentations
+A. Menu (too) long
+-------------------
+
+Some very long menus may not allow you to see all menu items directly.
+For example, the menu "Applications -> Sound and Video -> Virtual Instruments" does not allow to see all available virtual instruments.
+To be able to display them, when your mouse pointer hovers over the menu items, press (and release) once the Ctrl key, the Alt key or one of the arrows. Then you can scroll through the menu items by moving to the bottom of the menu.
+
+
+
+
+
+b. Documentations
 -----------------
 
 Some info in English are available online here:
@@ -15,7 +26,8 @@ Some info in English are available online here:
 
 
 
-B. Install LibraZiK-3 on your hard drive
+
+C. Install LibraZiK-3 on your hard drive
 ----------------------------------------
 
 You can try : "Applications menu -> Install LibraZiK-3 Audio Studio".
