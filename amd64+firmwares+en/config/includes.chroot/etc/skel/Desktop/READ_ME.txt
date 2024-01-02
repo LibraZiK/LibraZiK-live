@@ -1,4 +1,4 @@
-Welcome on the LibraZiK-3 live.
+Welcome on the LibraZiK-4 live.
 
 Some info for you in this file.
 
@@ -21,14 +21,14 @@ B. Documentations
 
 Some info in English are available online here:
 - https://librazik.tuxfamily.org/base-site-LZK/english.php
-- https://librazik.tuxfamily.org/doc3/manuel (look for the England flag)
+- https://librazik.tuxfamily.org/doc4/en/manuel
 
 
 
 
 
-C. Install LibraZiK-3 on your hard drive
+C. Install LibraZiK-4 on your hard drive
 ----------------------------------------
 
-You can try : "Applications menu -> Install LibraZiK-3 Audio Studio".
-And/or go to the address: https://librazik.tuxfamily.org/doc3/manuel
+You can try : "Applications menu -> Install LibraZiK-4 Audio Studio".
+And/or go to the address: https://librazik.tuxfamily.org/doc4/en/manuel

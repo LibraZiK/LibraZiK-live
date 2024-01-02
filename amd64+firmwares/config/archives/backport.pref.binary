@@ -1,12 +1,12 @@
 Package: *
-Pin: release n=buster
+Pin: release n=bullseye
 Pin-Priority: 500
 
 Package: *
-Pin: release n=buster-backports
+Pin: release n=bullseye-backports
 Pin-Priority: 500
 
 Package: linux-image-*
-Pin: release n=buster-backports
+Pin: release n=bullseye-backports
 Pin-Priority: -10
 
