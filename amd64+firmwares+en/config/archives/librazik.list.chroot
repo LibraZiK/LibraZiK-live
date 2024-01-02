@@ -1,5 +1,5 @@
-# Fichier pour l'inclusion du dépôt LZK3-users lors de la construction de l'image live
+# Fichier pour l'inclusion du dépôt LZK4-users lors de la construction de l'image live
 
-# LibraZiK3-users
-deb http://download.tuxfamily.org/librazik/pasapas/ LZK-PAP-users main contrib #LibraZiK-3 studio audio - #3 "pas a pas"
-deb-src http://download.tuxfamily.org/librazik/pasapas/ LZK-PAP-users main contrib #LibraZiK-3 studio audio - #3 "pas a pas"
+# LibraZiK4-users
+deb http://download.tuxfamily.org/librazik/barbeapapas/ LZK-BAP-users main contrib #LibraZiK-4 studio audio - #4 "barbe à papas"
+deb-src http://download.tuxfamily.org/librazik/barbeapapas/ LZK-BAP-users main contrib #LibraZiK-4 studio audio - #4 "barbe à papas"
