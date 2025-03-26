@@ -21,7 +21,7 @@ B. Documentations
 
 Des documentations pour la prise en main de LibraZiK-4 sont disponibles dans le dossier "documentations" sur le bureau.
 Ces documentations sont des exportations de la page des 5 pages de documentations disponibles en ligne :
-https://librazik.tuxfamily.org/doc4/manuel#gestion_de_la_production_audio
+https://doc4.librazik.org/manuel#gestion_de_la_production_audio
 Si possible, vous devriez utiliser la documentation en ligne en premier choix car celle ci est la plus à jour.
 Les documentations présentes dans le dossier "documentations" sur le bureau du Live sont là au cas où vous n'ayez pas accès à internet.
 
@@ -33,4 +33,4 @@ C. Installer LibraZiK-4 sur votre disque dur
 --------------------------------------------
 
 Vous pouvez essayer : "menu Applications -> Installer le studio audio LibraZiK-4".
-Et/ou vous rendre à l'adresse : https://librazik.tuxfamily.org/doc4/manuel/installer_librazik
+Et/ou vous rendre à l'adresse : https://doc4.librazik.org/manuel/installer_librazik
