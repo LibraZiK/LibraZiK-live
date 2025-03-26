@@ -8,8 +8,8 @@
 # This file has been written by Olivier Humbert for the LibraZiK audio studio project
 # License: GNU-GPL-3
 
-# Copyright : Olivier Humbert <trebmuh@tuxfamily.org> 2015-2023
-# https://librazik.tuxfamily.org
+# Copyright : Olivier Humbert <trebmuh@librazik.org> 2015-2023
+# https://librazik.org
 
 set -e
 
@@ -28,8 +28,8 @@ lb config noauto \
 	--debian-installer-gui true \
 	--distribution bullseye \
 	--iso-application "LibraZiK-4 studio audio - #4 barbe à papas" \
-	--iso-preparer "LibraZiK studio audio - trebmuh; https://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
-	--iso-publisher "LibraZiK studio audio; https://librazik.tuxfamily.org/; trebmuh@tuxfamily.org" \
+	--iso-preparer "LibraZiK studio audio - trebmuh; https://librazik.org/; trebmuh@librazik.org" \
+	--iso-publisher "LibraZiK studio audio; https://librazik.org/; trebmuh@librazik.org" \
 	--iso-volume "LibraZiK stud #4 barbe à papas" \
 	--mirror-binary "http://deb.debian.org/debian/" \
 	--mirror-binary-security "http://deb.debian.org/debian-security/" \
