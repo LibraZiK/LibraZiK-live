@@ -1,9 +1,9 @@
 # Fichier pour l'inclusion du dépôt LZK4-users lors de la construction de l'image live
 
 # LibraZiK4-users
-deb http://download.tuxfamily.org/librazik/barbeapapas/ LZK-BAP-users main contrib #LibraZiK-4 studio audio - #4 "barbe à papas"
-deb-src http://download.tuxfamily.org/librazik/barbeapapas/ LZK-BAP-users main contrib #LibraZiK-4 studio audio - #4 "barbe à papas"
+deb http://repos.librazik.org//barbeapapas/ LZK-BAP-users main contrib #LibraZiK-4 studio audio - #4 "barbe à papas"
+deb-src http://repos.librazik.org//barbeapapas/ LZK-BAP-users main contrib #LibraZiK-4 studio audio - #4 "barbe à papas"
 
 # LibraZiK4-users-FR
-deb http://download.tuxfamily.org/librazik/barbeapapas/ LZK-BAP-users-fr main contrib #LibraZiK-4 studio audio - #4 "barbe à papas - FR"
-deb-src http://download.tuxfamily.org/librazik/barbeapapas/ LZK-BAP-users-fr main contrib #LibraZiK-4 studio audio - #4 "barbe à papas - FR"
+deb http://repos.librazik.org//barbeapapas/ LZK-BAP-users-fr main contrib #LibraZiK-4 studio audio - #4 "barbe à papas - FR"
+deb-src http://repos.librazik.org//barbeapapas/ LZK-BAP-users-fr main contrib #LibraZiK-4 studio audio - #4 "barbe à papas - FR"
